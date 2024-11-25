@@ -6,10 +6,12 @@ All Questions with innovative solutions
 ## String
 |  |
 | ------- |
+| [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
 | ------- |
+| [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
 |  |

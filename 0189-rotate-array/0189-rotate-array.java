@@ -13,7 +13,6 @@ class Solution {
     }
     public void reverse(int[]nums,int start,int end)
     {
-        for(int i=0;i<nums.length;i++){
             while(start<end){
                 int temp=nums[start];
                 nums[start]=nums[end];
@@ -21,6 +20,6 @@ class Solution {
                 start++;
                 end--;
             }
-        }
+        
     }
 }

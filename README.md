@@ -13,6 +13,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@ All Questions with innovative solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -43,4 +45,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

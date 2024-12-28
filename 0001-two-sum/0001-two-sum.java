@@ -8,6 +8,6 @@ class Solution {
                 }
             }
         }
-        throw new IllegalArgumentException("The sum of two number");
+        return null;
     }
 }

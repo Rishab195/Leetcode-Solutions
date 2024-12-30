@@ -17,6 +17,7 @@ All Questions with innovative solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
@@ -64,4 +65,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

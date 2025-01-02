@@ -9,6 +9,7 @@ All Questions with innovative solutions
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ All Questions with innovative solutions
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Bit Manipulation
@@ -80,4 +82,5 @@ All Questions with innovative solutions
 | ------- |
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->

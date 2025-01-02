@@ -1,15 +1,11 @@
 class Solution {
     public boolean isVowel(char c){
-        if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return c=='a'|| c=='e' || c=='i' || c=='o'|| c=='u';
     }
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n=words.length;
-        int[]prefixSum=new int[n+1];
+        int prefixSum[]=new int[n+1];
+
         for(int i=0;i<n;i++){
             char start=words[i].charAt(0);
             char end=words[i].charAt(words[i].length()-1);

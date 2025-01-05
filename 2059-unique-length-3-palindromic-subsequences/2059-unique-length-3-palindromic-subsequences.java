@@ -1,26 +1,27 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        int[] first=new int[26];
-        int[] last=new int[26];
-        Arrays.fill(first,-1);
-        for(int i=0;i<s.length();i++){
-            int curr=s.charAt(i)-'a';
-            if(first[curr]==-1){
-                first[curr]=i;
+        int n=s.length();
+        Map<Character,int[]> map=new HashMap<>();
+        for(int i=0;i<n;i++){
+            char c=s.charAt(i);
+            if(!map.containsKey(c)){
+                map.put(c,new int[]{i,i});
             }
-            last[curr]=i;
-        } 
-        int ans=0;
-        for(int i=0;i<26;i++){
-            if(first[i]==-1){
-                continue;
+            else{
+                map.get(c)[1]=i;
             }
-            Set<Character> between =new HashSet();
-            for(int j=first[i]+1;j<last[i];j++){
-                between.add(s.charAt(j));
-            }
-            ans+=between.size();
         }
-        return ans;
+        int count=0;
+        for(Map.Entry<Character,int[]>entry:map.entrySet()){
+            int[]range=entry.getValue();
+            if(range[0]==range[1])
+            continue;
+            Set<Character> uniqueChars=new HashSet<>();
+            for(int i=range[0]+1;i<range[1];i++){
+                uniqueChars.add(s.charAt(i));
+            }
+            count+=uniqueChars.size();
+        }
+        return count;
     }
 }

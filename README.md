@@ -90,10 +90,12 @@ All Questions with innovative solutions
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -102,9 +104,14 @@ All Questions with innovative solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

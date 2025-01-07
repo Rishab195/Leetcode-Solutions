@@ -54,6 +54,7 @@ All Questions with innovative solutions
 ## Stack
 |  |
 | ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -96,6 +97,7 @@ All Questions with innovative solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ All Questions with innovative solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |

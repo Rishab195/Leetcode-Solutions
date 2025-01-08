@@ -13,6 +13,7 @@ All Questions with innovative solutions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ All Questions with innovative solutions
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Bit Manipulation
 |  |
@@ -111,6 +113,7 @@ All Questions with innovative solutions
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,9 +125,18 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

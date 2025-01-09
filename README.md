@@ -6,6 +6,7 @@ All Questions with innovative solutions
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -101,6 +102,7 @@ All Questions with innovative solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
@@ -110,6 +112,7 @@ All Questions with innovative solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## String Matching
@@ -126,6 +129,7 @@ All Questions with innovative solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -146,4 +150,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

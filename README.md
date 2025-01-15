@@ -6,6 +6,7 @@ All Questions with innovative solutions
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -47,6 +48,7 @@ All Questions with innovative solutions
 | [0016-3sum-closest](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
@@ -86,6 +88,7 @@ All Questions with innovative solutions
 | ------- |
 | [0001-two-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |

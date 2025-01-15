@@ -21,6 +21,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ All Questions with innovative solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -80,6 +82,7 @@ All Questions with innovative solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Math

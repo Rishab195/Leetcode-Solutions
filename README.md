@@ -38,6 +38,7 @@ All Questions with innovative solutions
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
@@ -59,6 +60,7 @@ All Questions with innovative solutions
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -92,12 +94,14 @@ All Questions with innovative solutions
 | [0152-maximum-product-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Math
 |  |
 | ------- |

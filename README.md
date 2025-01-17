@@ -26,6 +26,7 @@ All Questions with innovative solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -192,6 +193,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |

@@ -38,6 +38,7 @@ All Questions with innovative solutions
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -201,4 +202,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->

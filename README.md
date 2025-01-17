@@ -48,6 +48,7 @@ All Questions with innovative solutions
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ All Questions with innovative solutions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -212,4 +214,5 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

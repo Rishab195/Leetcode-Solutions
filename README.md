@@ -198,6 +198,7 @@ All Questions with innovative solutions
 | [0039-combination-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |

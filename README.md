@@ -86,6 +86,7 @@ All Questions with innovative solutions
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -129,6 +130,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -261,4 +263,5 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

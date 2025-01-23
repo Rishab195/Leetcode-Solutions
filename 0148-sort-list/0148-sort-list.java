@@ -10,20 +10,40 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
+        if(head==null || head.next==null ){
+            return head;
         }
-        Collections.sort(arr);
-        int i=0;
-        temp=head;
-        while(temp!=null){
-            temp.val=arr.get(i);
-            i++;
-            temp=temp.next;
+        ListNode slow=head, fast=head.next;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        return head;
+        ListNode mid=slow.next;
+        slow.next=null;
+
+        ListNode left=sortList(head);
+        ListNode right=sortList(mid);
+
+        return merge(left,right);
+    }
+    public ListNode merge(ListNode l1,ListNode l2){
+        ListNode dummy=new ListNode(0);
+        ListNode tail=dummy;
+        while(l1!=null && l2!=null){
+            if(l1.val<l2.val){
+                tail.next=l1;
+                l1=l1.next;
+            }else{
+                tail.next=l2;
+                l2=l2.next;
+            }
+            tail=tail.next;
+        }
+        if (l1 != null) {
+        tail.next = l1;
+        } else {
+        tail.next = l2;
+        }
+        return dummy.next;
     }
 }

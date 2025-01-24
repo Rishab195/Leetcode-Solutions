@@ -34,6 +34,7 @@ All Questions with innovative solutions
 | [0051-n-queens](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@ All Questions with innovative solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -227,6 +229,7 @@ All Questions with innovative solutions
 | [0046-permutations](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |

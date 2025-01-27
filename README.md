@@ -6,6 +6,7 @@ All Questions with innovative solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -104,6 +105,7 @@ All Questions with innovative solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |

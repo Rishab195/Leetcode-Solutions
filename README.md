@@ -12,6 +12,7 @@ All Questions with innovative solutions
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -127,6 +128,7 @@ All Questions with innovative solutions
 | [0152-maximum-product-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |

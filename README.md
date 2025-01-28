@@ -254,6 +254,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1916-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |

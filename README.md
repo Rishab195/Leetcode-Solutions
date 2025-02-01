@@ -295,6 +295,7 @@ All Questions with innovative solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |

@@ -137,6 +137,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ All Questions with innovative solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Hash Table
@@ -358,4 +360,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

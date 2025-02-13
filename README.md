@@ -82,6 +82,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -182,6 +183,7 @@ All Questions with innovative solutions
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -203,6 +205,7 @@ All Questions with innovative solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -236,6 +239,7 @@ All Questions with innovative solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |

@@ -66,6 +66,7 @@ All Questions with innovative solutions
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -366,6 +367,7 @@ All Questions with innovative solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort

@@ -76,6 +76,7 @@ All Questions with innovative solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -138,6 +139,7 @@ All Questions with innovative solutions
 | [0054-spiral-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -365,6 +367,7 @@ All Questions with innovative solutions
 | [0506-relative-ranks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |

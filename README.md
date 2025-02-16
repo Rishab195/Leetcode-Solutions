@@ -43,6 +43,7 @@ All Questions with innovative solutions
 | [0051-n-queens](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -184,6 +185,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -322,6 +324,7 @@ All Questions with innovative solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3330-modify-the-matrix) |
 ## Monotonic Stack

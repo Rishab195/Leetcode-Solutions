@@ -78,6 +78,7 @@ All Questions with innovative solutions
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -341,6 +342,7 @@ All Questions with innovative solutions
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
+| [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3330-modify-the-matrix) |

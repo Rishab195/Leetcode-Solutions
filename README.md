@@ -60,6 +60,7 @@ All Questions with innovative solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0506-relative-ranks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -174,6 +175,7 @@ All Questions with innovative solutions
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -356,6 +358,7 @@ All Questions with innovative solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |

@@ -324,6 +324,7 @@ All Questions with innovative solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -387,6 +388,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -397,11 +399,13 @@ All Questions with innovative solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |

@@ -9,6 +9,7 @@ All Questions with innovative solutions
 | [0020-valid-parentheses](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -136,6 +137,7 @@ All Questions with innovative solutions
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |

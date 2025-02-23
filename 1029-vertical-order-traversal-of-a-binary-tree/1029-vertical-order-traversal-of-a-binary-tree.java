@@ -28,7 +28,7 @@ class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         Queue<Pair> q=new LinkedList<>();
         List<List<Integer>> list=new ArrayList<>();
-        Map<Integer,TreeMap<Integer,List<Integer>>> map=new TreeMap<>();
+        Map<Integer,TreeMap<Integer,List<Integer>>> map=new TreeMap<>(); // {col,{row,list[]}}
 
         q.add(new Pair(root,0,0));
         while(!q.isEmpty()){
@@ -37,12 +37,12 @@ class Solution {
             int x=it.row;
             int y=it.col;
            
-            map.putIfAbsent(x, new TreeMap<>());
-            map.get(x).putIfAbsent(y, new ArrayList<>());
-            map.get(x).get(y).add(node.val);
+            map.putIfAbsent(y, new TreeMap<>());
+            map.get(y).putIfAbsent(x, new ArrayList<>());
+            map.get(y).get(x).add(node.val);
 
             if(node.left!=null){
-                q.add(new Pair(node.left,x-1,y+1));
+                q.add(new Pair(node.left,x+1,y-1));
             }
             if(node.right!=null){
                 q.add(new Pair(node.right,x+1,y+1));

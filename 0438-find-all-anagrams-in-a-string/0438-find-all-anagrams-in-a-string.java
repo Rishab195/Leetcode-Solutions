@@ -1,26 +1,34 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        ArrayList<Integer> result=new ArrayList<>();
-        if (s.length() < p.length()) return result;
-        int countS[]=new int[26];
-        int countP[]= new int[26];
-
-        for(char k: p.toCharArray()) countP[k-'a']++;
-
-        for (int i = 0; i < p.length(); i++) countS[s.charAt(i) - 'a']++;
-        if(isMatch(countS,countP)) result.add(0);
-
-        for(int j=p.length();j<s.length();j++){
+        List<Integer> result=new ArrayList<>();
+        if(p.length()>s.length()){
+            return result;
+        }
+        int[]countS=new int [26];
+        int[]countP=new int[26];
+        
+        for(int i=0;i<p.length();i++){
+            countP[p.charAt(i)-'a']++;
+        }
+        for(int j=0;j<p.length();j++){
             countS[s.charAt(j)-'a']++;
-            countS[s.charAt(j-p.length())-'a']--;
+        }
+        if(isMatch(countS,countP)){
+            result.add(0);
+        }
+        
+        for(int k=p.length();k<s.length();k++){
+            countS[s.charAt(k)-'a']++;
+            countS[s.charAt(k-p.length())-'a']--;
 
-            if(isMatch(countS,countP))result.add(j-p.length()+1);
+            if(isMatch(countS,countP)){
+                result.add(k-p.length()+1);
+            }
         }
         return result;
 
     }
-    private boolean isMatch(int[] countS, int []countP) {
-    
-    return Arrays.equals(countS,countP);
-}
+    public boolean isMatch(int[]countS,int[]countP){
+        return Arrays.equals(countS,countP);
+    }
 }

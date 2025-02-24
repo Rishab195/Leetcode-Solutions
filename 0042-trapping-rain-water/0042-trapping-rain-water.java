@@ -1,22 +1,26 @@
 class Solution {
     public int trap(int[] height) {
         int n=height.length;
-        int prefMax=Integer.MIN_VALUE;
-        int suffMax=Integer.MIN_VALUE;
-        int prefarr[]=new int[n];
-        int suffarr[]=new int[n];
-        for(int i=0;i<n;i++){
-            prefMax=Math.max(prefMax,height[i]);
-            prefarr[i]=prefMax;
-            suffMax=Math.max(suffMax,height[n-1-i]);
-            suffarr[n-1-i]=suffMax;
+        if(n==0){
+            return 0;
         }
-        int sum=0;
-        for(int i=0;i<n;i++){
-            prefarr[i]=Math.min(prefarr[i],suffarr[i])-height[i];
-            sum+=prefarr[i];
-        }
+        int totalWater=0;
+        int LeftHeight[]=new int[n];
+        int rightHeight[]=new int[n];
+           
+            LeftHeight[0]=height[0];
+            for(int j=1;j<n;j++){
+                LeftHeight[j]=Math.max(LeftHeight[j-1],height[j]);
+            }
+            rightHeight[n-1]=height[n-1];
+            for(int j=n-2;j>=0;j--){
+                rightHeight[j]=Math.max(rightHeight[j+1],height[j]);
+            }
+            for(int k=0;k<n;k++){
 
-        return sum;
+            totalWater+=Math.min(LeftHeight[k],rightHeight[k])-height[k];
+            
+        }
+        return totalWater;
     }
 }

@@ -8,7 +8,6 @@ class Solution {
             int width=j-i;
             int area=length*width;
             ans=Math.max(ans,area);
-
             if(height[i]<height[j]){
                 i++;
             }
@@ -16,6 +15,16 @@ class Solution {
                 j--;
             }
         }
-    return ans;
+        return ans;
+        // int res=0;
+        // for(int i=0;i<height.length;i++){
+        //     for(int j=i+1;j<height.length;j++){
+        //         int length=Math.min(height[i],height[j]);
+        //         int width=j-i;
+        //         int ans=length*width;
+        //         res=Math.max(res,ans);
+        //     }
+        // }
+        // return res;
     }
 }

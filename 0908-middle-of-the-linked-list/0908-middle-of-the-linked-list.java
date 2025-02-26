@@ -10,11 +10,12 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        LinkedList<ListNode> ll = new LinkedList<>();
-        while (head != null) {
-            ll.add(head);
-            head = head.next;
+        ListNode fast=head;
+        ListNode slow=head;
+        while(fast!=null && fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
         }
-        return ll.get(ll.size() / 2);
+        return slow;
     }
 }

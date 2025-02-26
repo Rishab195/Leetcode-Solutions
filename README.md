@@ -140,6 +140,7 @@ All Questions with innovative solutions
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -213,6 +214,7 @@ All Questions with innovative solutions
 | [0001-two-sum](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -415,6 +417,7 @@ All Questions with innovative solutions
 | [0024-swap-nodes-in-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |

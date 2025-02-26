@@ -14,12 +14,22 @@ public class Solution {
         if(headA==null || headB==null){
             return null;
         }
-        ListNode a=headA;
-        ListNode b=headB;
-        while(a!=b){
-            a=a==null?headB:a.next;
-            b=b==null?headA:b.next;
+        ListNode p=headA;
+        ListNode q=headB;
+        while(p!=q){
+            if(p==null){
+                p=headB;
+            }
+            else{
+                p=p.next;
+            }
+            if(q==null){
+                q=headA;
+            }
+            else{
+                q=q.next;
+            }
         }
-        return b;
+        return p;
     }
 }

@@ -477,6 +477,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |

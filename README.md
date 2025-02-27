@@ -406,6 +406,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search Tree
 |  |
@@ -425,6 +426,7 @@ All Questions with innovative solutions
 | [0142-linked-list-cycle-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

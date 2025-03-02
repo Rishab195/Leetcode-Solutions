@@ -21,11 +21,18 @@ class Solution {
         if(root==null){
             return 0;
         }
-        int lheight=height(root.left);
-        if(lheight==-1)return -1;
-        int rheight=height(root.right);
-        if(rheight==-1)return -1;
-        if(Math.abs(lheight-rheight)>1) return -1;
-        return Math.max(lheight,rheight)+1;
+        int leftheight=height(root.left);
+        if(leftheight==-1){
+            return -1;
+        }
+        int rightHeight=height(root.right);
+        if(rightHeight==-1){
+            return -1;
+        }
+
+        if(Math.abs(leftheight-rightHeight)>1){
+            return -1;
+        }
+        return Math.max(leftheight,rightHeight)+1;
     }
 }

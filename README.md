@@ -92,6 +92,7 @@ All Questions with innovative solutions
 | [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -157,6 +158,7 @@ All Questions with innovative solutions
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +177,7 @@ All Questions with innovative solutions
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |

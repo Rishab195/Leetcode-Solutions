@@ -30,6 +30,7 @@ All Questions with innovative solutions
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -168,6 +169,7 @@ All Questions with innovative solutions
 | [0234-palindrome-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@ All Questions with innovative solutions
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |

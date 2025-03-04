@@ -305,6 +305,7 @@ All Questions with innovative solutions
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -351,6 +352,7 @@ All Questions with innovative solutions
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
@@ -370,6 +372,7 @@ All Questions with innovative solutions
 | [0052-n-queens-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,6 +393,7 @@ All Questions with innovative solutions
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1916-find-center-of-star-graph) |
 ## Matrix

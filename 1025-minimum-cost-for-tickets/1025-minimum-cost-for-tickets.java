@@ -1,41 +1,30 @@
 class Solution {
-    HashSet<Integer> isTravelNeeded = new HashSet<>();
+    public int mincostTickets(int[] days, int[] cost) {
+        int dp[]=new int[days.length+1];
+        Arrays.fill(dp,-1);
+        int n=days.length;
+        return SolveRec(days,cost,0,n,dp);
 
-    private int solve(int[] dp, int[] days, int[] costs, int currDay) {
-        // If we have iterated over travel days, return 0.
-        if (currDay > days[days.length - 1]) {
-            return 0;
-        }
-
-        // If we don't need to travel on this day, move on to next day.
-        if (!isTravelNeeded.contains(currDay)) {
-            return solve(dp, days, costs, currDay + 1);
-        }
-
-        // If already calculated, return from here with the stored answer.
-        if (dp[currDay] != -1) {
-            return dp[currDay];
-        }
-
-        int oneDay = costs[0] + solve(dp, days, costs, currDay + 1);
-        int sevenDay = costs[1] + solve(dp, days, costs, currDay + 7);
-        int thirtyDay = costs[2] + solve(dp, days, costs, currDay + 30);
-
-        // Store the cost with the minimum of the three options.
-        return dp[currDay] = Math.min(oneDay, Math.min(sevenDay, thirtyDay));
     }
+    public int SolveRec(int[]days,int[]cost,int index,int n,int []dp){
 
-    public int mincostTickets(int[] days, int[] costs) {
-        // The last day on which we need to travel.
-        int lastDay = days[days.length - 1];
-        int dp[] = new int[lastDay + 1];
-        Arrays.fill(dp, -1);
-
-        // Mark the days on which we need to travel.
-        for (int day : days) {
-            isTravelNeeded.add(day);
+        if(index>=n){
+            return 0; 
         }
+        if(dp[index]!=-1){
+            return dp[index];
+        }
+        
+        int option1=cost[0]+SolveRec(days,cost,index+1,n,dp);
 
-        return solve(dp, days, costs, 1);
+        int  i;
+        for(i=index;i<n && days[i]<days[index]+7;i++);
+            int option2=cost[1]+SolveRec(days,cost,i,n,dp);
+        
+        for(i=index;i<n && days[i]<days[index]+30;i++);
+            int option3=cost[2]+SolveRec(days,cost,i,n,dp);
+        
+        dp[index]= Math.min(option1,Math.min(option2,option3));
+        return dp[index];
     }
 }

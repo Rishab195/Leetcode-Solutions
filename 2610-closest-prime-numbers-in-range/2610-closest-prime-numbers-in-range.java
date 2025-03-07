@@ -5,6 +5,9 @@ class Solution {
         ArrayList<Integer> arr=new ArrayList<>();
         for(int i=left;i<=right;i++){
             if(isPrime(i)){
+                if(!arr.isEmpty() && i-arr.get(arr.size()-1)<=2){
+                    return new int[] {arr.get(arr.size()-1),i};
+                }
                 arr.add(i);
             }
         }

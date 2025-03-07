@@ -230,6 +230,7 @@ All Questions with innovative solutions
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -532,4 +533,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

@@ -1,15 +1,21 @@
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
-        int [] arr=new int[cost.length+1];
-        int n=arr.length;
-        for(int i=0;i<cost.length;i++){
-            arr[i]=cost[i];
+        int n=cost.length;
+        int [] dp=new int[n+1];
+        Arrays.fill(dp,-1);      
+        return Math.min(SolveRec(cost,dp,0),SolveRec(cost,dp,1));
+    }
+    public int SolveRec(int[]cost,int[]dp,int index){
+        int n=cost.length;
+        if(index>=n){
+            return 0;
         }
-        arr[n-1]=0;
-
-        for(int i=n-3;i>=0;i--){
-            arr[i]=Math.min(arr[i]+arr[i+2], arr[i]+arr[i+1]);
+        if(dp[index]!=-1){
+            return dp[index];
         }
-        return Math.min(arr[0],arr[1]);
+        int skip1=cost[index]+SolveRec(cost,dp,index+1);
+        int skip2=SolveRec(cost,dp,index+2)+cost[index];
+        dp[index]=Math.min(skip1,skip2);
+        return dp[index];
     }
 }

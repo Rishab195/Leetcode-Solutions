@@ -1,20 +1,21 @@
 class Solution {
     public int climbStairs(int n) {
-        int[]dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return recur(n,dp);
+      int[]dp=new int[n+1];
+      Arrays.fill(dp,-1);
+      return SolveRec(n ,dp,0);  
     }
-    public int recur(int i,int []dp){
-        if(i==0){
+    public int SolveRec(int n,int[]dp,int index){
+        if(n==index){
             return 1;
         }
-        if(i<0){
+        if(index>=n){
             return 0;
         }
-        if(dp[i]!=-1){
-            return dp[i];
+        if(dp[index]!=-1){
+            return dp[index];
         }
-        dp[i]=recur(i-1,dp)+recur(i-2,dp);
-        return dp[i];
+
+        dp[index]=SolveRec(n,dp,index+1)+SolveRec(n,dp,index+2);
+        return dp[index];
     }
 }

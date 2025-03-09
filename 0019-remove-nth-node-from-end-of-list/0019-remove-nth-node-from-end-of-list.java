@@ -14,9 +14,8 @@ class Solution {
         ListNode fast=temp;
         ListNode slow=temp;
         slow.next=head;
-        for(int i=1;i<=n+1;i++){
+        for(int i=0;i<=n;i++){
             fast=fast.next;
-
         }
         while(fast!=null){
             slow=slow.next;
@@ -24,6 +23,5 @@ class Solution {
         }
         slow.next=slow.next.next;
         return temp.next;
-        
     }
 }

@@ -23,6 +23,7 @@ All Questions with innovative solutions
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -260,6 +261,7 @@ All Questions with innovative solutions
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -454,6 +456,7 @@ All Questions with innovative solutions
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

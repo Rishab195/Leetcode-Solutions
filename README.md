@@ -82,6 +82,7 @@ All Questions with innovative solutions
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
@@ -216,6 +217,7 @@ All Questions with innovative solutions
 | [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -258,6 +260,7 @@ All Questions with innovative solutions
 | [0496-next-greater-element-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |

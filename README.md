@@ -86,6 +86,7 @@ All Questions with innovative solutions
 | [0747-min-cost-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
+| [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -240,6 +241,7 @@ All Questions with innovative solutions
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -263,6 +265,7 @@ All Questions with innovative solutions
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
+| [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -438,6 +441,7 @@ All Questions with innovative solutions
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |

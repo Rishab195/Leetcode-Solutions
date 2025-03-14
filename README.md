@@ -93,6 +93,7 @@ All Questions with innovative solutions
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -289,6 +290,7 @@ All Questions with innovative solutions
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |

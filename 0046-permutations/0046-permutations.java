@@ -1,21 +1,23 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result=new ArrayList<>();
-        SolveRec(nums,new ArrayList<>(),result);
-        return result;
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> subList=new ArrayList<>();
+        recursion(nums,res,subList);
+        return res;
     }
-    public void SolveRec(int[]nums,List<Integer> current,List<List<Integer>> result){
-        if(nums.length==current.size()){
-            result.add(new ArrayList<>(current));
+    public void recursion (int[]nums ,List<List<Integer>> res,List<Integer> subList){
+
+        if(subList.size()==nums.length){
+            res.add(new ArrayList<>(subList));
+            return;
         }
         for(int i=0;i<nums.length;i++){
-            if(current.contains(nums[i])){
+            if(subList.contains(nums[i])){
                 continue;
             }
-            current.add(nums[i]);
-            SolveRec(nums,current,result);
-            current.remove(current.size()-1);
+            subList.add(nums[i]);
+            recursion(nums,res,subList);
+            subList.remove(subList.size()-1);
         }
     }
-
-    }
+}

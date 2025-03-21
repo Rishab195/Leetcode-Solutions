@@ -8,7 +8,10 @@ class Solution {
         }
         return count;
     }
-    public boolean isDistinct(String str){
-        return str.charAt(1)!=str.charAt(0) && str.charAt(0)!=str.charAt(2) && str.charAt(1)!=str.charAt(2);
+    public boolean isDistinct(String s){
+        if(s.charAt(0)==s.charAt(1) || s.charAt(1)==s.charAt(2) || s.charAt(0)==s.charAt(2)){
+            return false;
+        }
+        return true;
     }
 }

@@ -362,6 +362,7 @@ All Questions with innovative solutions
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## String Matching
 |  |
 | ------- |
@@ -421,6 +422,7 @@ All Questions with innovative solutions
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -468,6 +470,7 @@ All Questions with innovative solutions
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -602,4 +605,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

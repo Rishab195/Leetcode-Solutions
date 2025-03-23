@@ -98,6 +98,7 @@ All Questions with innovative solutions
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
@@ -194,6 +195,7 @@ All Questions with innovative solutions
 | [0496-next-greater-element-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -599,6 +601,7 @@ All Questions with innovative solutions
 | ------- |
 | [0155-min-stack](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Number Theory
 |  |
 | ------- |

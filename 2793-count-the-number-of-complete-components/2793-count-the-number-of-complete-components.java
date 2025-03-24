@@ -1,36 +1,40 @@
 class Solution {
-    private void dfs(int curr, int[] nodes, int[] edges, List<List<Integer>> adj, boolean[] visited) {
-        nodes[0]++;
-        visited[curr] = true;
-        for (int nbr : adj.get(curr)) {
-            edges[0]++;
-            if (!visited[nbr]) {
-                dfs(nbr, nodes, edges, adj, visited);
+    public int nodeCount;
+    public int edgeCount;
+
+    public void dfs(int curr,List<List<Integer>> adj,boolean[]vis){
+        nodeCount++;
+        vis[curr]=true;
+        for(int nbr : adj.get(curr)){
+            edgeCount++;
+            if(vis[nbr]==false){
+                dfs(nbr,adj,vis);
             }
         }
     }
 
     public int countCompleteComponents(int n, int[][] edges) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+        List<List<Integer>> adj=new ArrayList<>();
+        for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for (int[] edge : edges) {
+        for(int []edge : edges){
             adj.get(edge[0]).add(edge[1]);
             adj.get(edge[1]).add(edge[0]);
         }
-        int completeComponents = 0;
-        boolean[] visited = new boolean[n];
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                int[] nodes = new int[1];
-                int[] edgesCount = new int[1];
-                dfs(i, nodes, edgesCount, adj, visited);
-                if (edgesCount[0] == nodes[0] * (nodes[0] - 1)) {
-                    completeComponents++;
+        boolean[]vis=new boolean[n];
+        int count=0;
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                nodeCount=0;
+                edgeCount=0;
+                dfs(i,adj,vis);
+                if(edgeCount==nodeCount*(nodeCount-1)){
+                    count++;
                 }
             }
         }
-        return completeComponents;
+        return count;
     }
+    
 }

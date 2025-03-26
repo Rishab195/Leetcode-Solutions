@@ -10,19 +10,23 @@ class Solution {
             yCord[i][0]=rectangles[i][1];
             yCord[i][1]=rectangles[i][3];
         }
-        return check(xCord) || check(yCord);
+        return merge(xCord) || merge(yCord);
     }
-    public boolean check(int[][]Cord){
-        Arrays.sort(Cord,(a,b)-> Integer.compare(a[0],b[0]));
-        int sections=0;
-        int end=Cord[0][1];
+        public boolean merge(int[][] intervals) {
+        Arrays.sort(intervals, (a,b)-> Integer.compare(a[0],b[0]));
+        List<int[]> res=new ArrayList<>();
 
-        for(int [] i : Cord){
-            if(end<=i[0]){
-                sections++;
+        int [] firstInt=intervals[0];
+        res.add(firstInt);
+        for(int i=1;i<intervals.length;i++){
+            int start=intervals[i][0], end=intervals[i][1];
+            if(start<firstInt[1]){
+                firstInt[1]=Math.max(end,firstInt[1]);
+            }else{
+                 firstInt = new int[]{start, end};
+                res.add(firstInt);
             }
-            end=Math.max(end,i[1]);
         }
-        return sections>=2;
+        return res.size()>=3;
     }
 }

@@ -127,6 +127,7 @@ All Questions with innovative solutions
 | [3483-alternating-groups-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ All Questions with innovative solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |

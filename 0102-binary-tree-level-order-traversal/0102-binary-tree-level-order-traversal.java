@@ -22,19 +22,17 @@ class Solution {
         }
         q.add(root);
         while(!q.isEmpty()){
-            int len=q.size();
             List<Integer> list=new ArrayList<>();
+            int len=q.size();
             for(int i=0;i<len;i++){
-                TreeNode curr=q.peek();
-                q.remove();
+                TreeNode curr=q.poll();
                 list.add(curr.val);
-            
-            if(curr.left!=null){
-                q.add(curr.left);
-            }
-            if(curr.right!=null){
-                q.add(curr.right);
-            }
+                if(curr.left!=null){
+                    q.add(curr.left);
+                }
+                if(curr.right!=null){
+                    q.add(curr.right);
+                }
             }
             res.add(list);
         }

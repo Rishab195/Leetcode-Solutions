@@ -380,6 +380,7 @@ All Questions with innovative solutions
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -442,6 +443,7 @@ All Questions with innovative solutions
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -491,6 +493,7 @@ All Questions with innovative solutions
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -637,6 +640,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |

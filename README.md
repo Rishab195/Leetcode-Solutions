@@ -115,6 +115,7 @@ All Questions with innovative solutions
 | [2308-divide-array-into-equal-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -163,6 +164,7 @@ All Questions with innovative solutions
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -194,6 +196,7 @@ All Questions with innovative solutions
 | [0908-middle-of-the-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +449,7 @@ All Questions with innovative solutions
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
@@ -513,6 +517,7 @@ All Questions with innovative solutions
 | [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2737-row-with-maximum-ones](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3330-modify-the-matrix) |
@@ -590,6 +595,7 @@ All Questions with innovative solutions
 | [0948-sort-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
@@ -641,6 +647,7 @@ All Questions with innovative solutions
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |

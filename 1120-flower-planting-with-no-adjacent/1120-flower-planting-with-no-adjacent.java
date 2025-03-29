@@ -10,15 +10,15 @@ class Pair {
 }
 
 class Solution {
-    public void bfs(int src, int[] color, ArrayList<ArrayList<Integer>> adj) {
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(src);
+    public void dfs(int src, int[] color, ArrayList<ArrayList<Integer>> adj) {
+        // Queue<Integer> q = new LinkedList<>();
+        // q.offer(src);
 
-        while (!q.isEmpty()) {
-            int node = q.poll();
+        // while (!q.isEmpty()) {
+            // int node = q.poll();
             boolean[] used = new boolean[5];
 
-            for (int nbr : adj.get(node)) {
+            for (int nbr : adj.get(src)) {
                 if (color[nbr] != -1) {
                     used[color[nbr]] = true;
                 }
@@ -26,17 +26,17 @@ class Solution {
 
             for (int c = 1; c <= 4; c++) {
                 if (!used[c]) {
-                    color[node] = c;
+                    color[src] = c;
                     break;
                 }
             }
 
-            for (int nbr : adj.get(node)) {
+            for (int nbr : adj.get(src)) {
                 if (color[nbr] == -1) {
-                    q.offer(nbr);
+                    // q.offer(nbr);
+                    dfs(nbr,color,adj);
                 }
             }
-        }
     }
 
     public int[] gardenNoAdj(int n, int[][] paths) {
@@ -57,7 +57,7 @@ class Solution {
 
         for (int i = 1; i <= n; i++) {
             if (color[i] == -1) {
-                bfs(i, color, adj);
+                dfs(i, color, adj);
             }
         }
 

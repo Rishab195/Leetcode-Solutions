@@ -21,6 +21,7 @@ All Questions with innovative solutions
 | [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -193,6 +194,7 @@ All Questions with innovative solutions
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -257,6 +259,7 @@ All Questions with innovative solutions
 | [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Math
 |  |
@@ -293,6 +296,7 @@ All Questions with innovative solutions
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |

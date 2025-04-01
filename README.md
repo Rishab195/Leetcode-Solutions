@@ -114,6 +114,7 @@ All Questions with innovative solutions
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -256,6 +257,7 @@ All Questions with innovative solutions
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2262-solving-questions-with-brainpower](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |

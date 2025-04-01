@@ -11,6 +11,7 @@ All Questions with innovative solutions
 | [0058-length-of-last-word](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -237,6 +238,7 @@ All Questions with innovative solutions
 | [0091-decode-ways](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

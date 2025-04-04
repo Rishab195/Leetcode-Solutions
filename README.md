@@ -311,6 +311,7 @@ All Questions with innovative solutions
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -376,6 +377,7 @@ All Questions with innovative solutions
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -403,6 +405,7 @@ All Questions with innovative solutions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## String Matching
 |  |
@@ -437,6 +440,7 @@ All Questions with innovative solutions
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Hash Function
 |  |
 | ------- |
@@ -467,6 +471,7 @@ All Questions with innovative solutions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie

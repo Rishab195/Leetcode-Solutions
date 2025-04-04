@@ -309,6 +309,7 @@ All Questions with innovative solutions
 | [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0835-linked-list-components](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -375,6 +376,7 @@ All Questions with innovative solutions
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -401,6 +403,7 @@ All Questions with innovative solutions
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -438,6 +441,7 @@ All Questions with innovative solutions
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -467,6 +471,7 @@ All Questions with innovative solutions
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |

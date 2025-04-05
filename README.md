@@ -397,6 +397,7 @@ All Questions with innovative solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -467,6 +468,7 @@ All Questions with innovative solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -526,6 +528,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -675,6 +678,7 @@ All Questions with innovative solutions
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |

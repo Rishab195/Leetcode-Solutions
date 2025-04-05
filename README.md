@@ -111,6 +111,7 @@ All Questions with innovative solutions
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -148,6 +149,7 @@ All Questions with innovative solutions
 | [0287-find-the-duplicate-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -284,6 +286,7 @@ All Questions with innovative solutions
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -499,6 +502,7 @@ All Questions with innovative solutions
 | [0078-subsets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -683,4 +687,12 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

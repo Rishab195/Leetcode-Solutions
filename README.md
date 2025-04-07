@@ -83,6 +83,7 @@ All Questions with innovative solutions
 | [0300-longest-increasing-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -277,6 +278,7 @@ All Questions with innovative solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |

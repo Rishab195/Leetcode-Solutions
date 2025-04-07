@@ -1,22 +1,31 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result=new ArrayList<>();
-        SolveRec(candidates,target,0,new ArrayList<>(),result);
-        return result;
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> output=new ArrayList<>();
+        int index=0;
+        int sum=0;
+        SolveRec(index,sum,output,ans,candidates,target);
+        return ans;
     }
-    public void SolveRec(int[] candidates,int target,int start,List<Integer>current,List<List<Integer>> result)
-    {
-        if(target==0){
-            result.add(new ArrayList<>(current));
+    public void SolveRec(int index,int sum,List<Integer> output,List<List<Integer>> ans,int[] candidates,int target){
+        if(index>=candidates.length && sum==target){
+            ans.add(new ArrayList<>(output));
             return;
         }
-        for(int i=start;i<candidates.length;i++){
-            int rem=target-candidates[i];
-            if(rem>=0){
-                current.add(candidates[i]);
-                SolveRec(candidates,rem,i,current,result);
-                current.remove(current.size()-1);
-            }
+        if(index>=candidates.length && sum!=target){
+            return;
         }
+        if(sum>target){
+            return;
+        }
+        //exclude
+        SolveRec(index+1,sum,output,ans,candidates,target);
+
+        //include
+        output.add(candidates[index]);
+        SolveRec(index,sum+candidates[index],output,ans,candidates,target);
+
+        //backtrack
+        output.remove(output.size()-1);
     }
 }

@@ -20,6 +20,7 @@ All Questions with innovative solutions
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -321,6 +322,7 @@ All Questions with innovative solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -541,6 +543,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -723,4 +726,8 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

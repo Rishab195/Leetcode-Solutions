@@ -308,6 +308,7 @@ All Questions with innovative solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -726,6 +727,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Queue
 |  |
 | ------- |

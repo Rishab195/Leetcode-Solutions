@@ -422,6 +422,7 @@ All Questions with innovative solutions
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -494,6 +495,7 @@ All Questions with innovative solutions
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
@@ -556,6 +558,7 @@ All Questions with innovative solutions
 | ------- |
 | [0133-clone-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -707,6 +710,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find

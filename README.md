@@ -304,6 +304,7 @@ All Questions with innovative solutions
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |

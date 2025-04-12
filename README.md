@@ -293,6 +293,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -353,6 +354,7 @@ All Questions with innovative solutions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |

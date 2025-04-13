@@ -307,6 +307,7 @@ All Questions with innovative solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -622,6 +623,7 @@ All Questions with innovative solutions
 | [0206-reverse-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |

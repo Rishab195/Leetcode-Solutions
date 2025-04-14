@@ -117,6 +117,7 @@ All Questions with innovative solutions
 | [1524-string-matching-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -738,6 +739,7 @@ All Questions with innovative solutions
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Queue

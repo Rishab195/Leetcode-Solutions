@@ -90,6 +90,7 @@ All Questions with innovative solutions
 | [0368-largest-divisible-subset](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -430,6 +431,7 @@ All Questions with innovative solutions
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -504,6 +506,7 @@ All Questions with innovative solutions
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -585,6 +588,7 @@ All Questions with innovative solutions
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |

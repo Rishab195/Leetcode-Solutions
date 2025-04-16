@@ -80,6 +80,7 @@ All Questions with innovative solutions
 | [0169-majority-element](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -429,6 +430,7 @@ All Questions with innovative solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -503,6 +505,7 @@ All Questions with innovative solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0279-perfect-squares) |
@@ -590,6 +593,7 @@ All Questions with innovative solutions
 | [0059-spiral-matrix-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
@@ -731,6 +735,7 @@ All Questions with innovative solutions
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |

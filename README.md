@@ -99,6 +99,7 @@ All Questions with innovative solutions
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -439,6 +440,7 @@ All Questions with innovative solutions
 | [0543-diameter-of-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -513,6 +515,7 @@ All Questions with innovative solutions
 | [0322-coin-change](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -595,6 +598,7 @@ All Questions with innovative solutions
 | [0074-search-a-2d-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -736,6 +740,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0922-possible-bipartition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |

@@ -142,6 +142,7 @@ All Questions with innovative solutions
 | [2690-house-robber-iv](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -194,6 +195,7 @@ All Questions with innovative solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -227,6 +229,7 @@ All Questions with innovative solutions
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -379,6 +382,7 @@ All Questions with innovative solutions
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |

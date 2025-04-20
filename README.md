@@ -7,6 +7,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -544,6 +545,7 @@ All Questions with innovative solutions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |

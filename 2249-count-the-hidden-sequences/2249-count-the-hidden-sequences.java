@@ -1,18 +1,18 @@
 class Solution {
     public int numberOfArrays(int[] differences, int lower, int upper) {
         int n=differences.length;
-        long []hid=new long[n+1];
-        hid[0]=lower;
-        for(int i=1;i<=n;i++){
-            hid[i]=hid[i-1]+differences[i-1];
+        int curr=0;
+        int max=0;
+        int min=0;
+        for(int i=0;i<n;i++){
+            curr+=differences[i];
+            max=Math.max(max,curr);
+            min=Math.min(min,curr);
+
+            if(max-min > upper-lower){
+                return 0;
+            }
         }
-        Arrays.sort(hid);
-        long maximum=hid[n];
-        long minimum=hid[0];
-        int res=((upper-lower+1)-(int)(maximum-minimum));
-        if(res<0){
-            return 0;
-        }
-        return res;
+        return ((upper-lower+1)-(max-min));
     }
 }

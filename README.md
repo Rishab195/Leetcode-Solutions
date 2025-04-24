@@ -272,6 +272,7 @@ All Questions with innovative solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -316,6 +317,7 @@ All Questions with innovative solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -783,6 +785,7 @@ All Questions with innovative solutions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |

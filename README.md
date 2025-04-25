@@ -124,6 +124,7 @@ All Questions with innovative solutions
 | [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -335,6 +336,7 @@ All Questions with innovative solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0797-rabbits-in-forest](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -377,6 +379,7 @@ All Questions with innovative solutions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -418,6 +421,7 @@ All Questions with innovative solutions
 | [0560-subarray-sum-equals-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -667,6 +671,7 @@ All Questions with innovative solutions
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |

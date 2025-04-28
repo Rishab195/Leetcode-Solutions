@@ -10,13 +10,12 @@ class Solution {
                 }
                 stk.push(s.charAt(i));
             }
-            if(s.charAt(i)==')'){
+            else{
                 if(stk.size()>1){
-                res+=s.charAt(i);
+                    res+=s.charAt(i);
                 }
                 stk.pop();
             }
-           
         }
         return res;
     }

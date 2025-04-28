@@ -1,8 +1,10 @@
 class Solution {
     public int maxArea(int[] height) {
-        int i=0;
-        int j=height.length-1;
         int ans=0;
+        int i=0;
+        int n=height.length;
+        int j=n-1;
+            // int j=n-1-i;
         while(i<j){
             int length=Math.min(height[i],height[j]);
             int width=j-i;
@@ -10,21 +12,10 @@ class Solution {
             ans=Math.max(ans,area);
             if(height[i]<height[j]){
                 i++;
-            }
-            else{
+            }else{
                 j--;
             }
         }
         return ans;
-        // int res=0;
-        // for(int i=0;i<height.length;i++){
-        //     for(int j=i+1;j<height.length;j++){
-        //         int length=Math.min(height[i],height[j]);
-        //         int width=j-i;
-        //         int ans=length*width;
-        //         res=Math.max(res,ans);
-        //     }
-        // }
-        // return res;
     }
 }

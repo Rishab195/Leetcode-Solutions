@@ -7,14 +7,16 @@ class Solution {
             int length=Math.min(height[i],height[j]);
             int width=j-i;
             int area=length*width;
-            // if(height[i]>=height[j]){
-            //     j--;
-            // }
             if(height[i]<height[j]){
                 i++;
-            }else{
+
+            }
+            // }else{
+            else if(height[i]>=height[j]){
                 j--;
             }
+            //     j--;
+            // }
             maxArea=Math.max(maxArea,area);
         }
     return maxArea;

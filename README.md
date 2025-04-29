@@ -161,6 +161,7 @@ All Questions with innovative solutions
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -681,6 +682,7 @@ All Questions with innovative solutions
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Rishab195/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Recursion

@@ -1,25 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stk = new Stack<>();
-        for (char ch : s.toCharArray()) {
-            // Push opening brackets onto the stack
-            if (ch == '(' || ch == '[' || ch == '{') {
-                stk.add(ch);
-            } 
-            // Handle closing brackets
-            else {
-                // If stack is empty or the top element doesn't match, it's invalid
-                if (stk.isEmpty() || 
-                    (ch == ')' && stk.peek() != '(') ||
-                    (ch == ']' && stk.peek() != '[') ||
-                    (ch == '}' && stk.peek() != '{')) {
-                    return false;
-                }
-                // Pop the matching opening bracket from the stack
+        Stack<Character> stk=new Stack<>();
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            if(s.charAt(i)=='(' || s.charAt(i)=='[' || s.charAt(i)=='{'){
+                stk.push(s.charAt(i));
+            }
+            else{
+                if(stk.isEmpty()) return false;
+                 if((s.charAt(i)==')' && stk.peek()=='(' ) || (s.charAt(i)==']' && stk.peek()=='[') || (s.charAt(i)=='}' && stk.peek()=='{')){
                 stk.pop();
+            }else{
+                return false;
             }
         }
-        // If the stack is empty, all brackets were matched correctly
-        return stk.isEmpty();
     }
+        return stk.isEmpty();
+}
 }

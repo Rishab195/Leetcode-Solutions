@@ -33,6 +33,7 @@ All Questions with innovative solutions
 | [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -240,6 +241,7 @@ All Questions with innovative solutions
 | [0567-permutation-in-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -305,6 +307,7 @@ All Questions with innovative solutions
 | [0646-maximum-length-of-pair-chain](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1388-greatest-sum-divisible-by-three) |

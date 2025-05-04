@@ -124,6 +124,7 @@ All Questions with innovative solutions
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -386,6 +387,7 @@ All Questions with innovative solutions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1500-count-largest-group) |
@@ -619,6 +621,7 @@ All Questions with innovative solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rishab195/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rishab195/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rishab195/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
